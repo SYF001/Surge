@@ -1,3 +1,8 @@
+配置文件
+
+Brian：https://raw.githubusercontent.com/TributePaulWalker/Profiles/main/Surge/Surge%20Pro.conf
+
+
 Surge分流规则
 
 Apple：https://raw.githubusercontent.com/SYF001/Surge/main/Apple_Rule.list
