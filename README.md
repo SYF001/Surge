@@ -1,5 +1,7 @@
 配置文件
 
+神机规则：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf
+
 MAICOO:https://raw.githubusercontent.com/blankmagic/surge/main/profile.conf
 
 Brian：https://raw.githubusercontent.com/TributePaulWalker/Profiles/main/Surge/Surge%20Pro.conf
