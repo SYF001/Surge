@@ -14,7 +14,7 @@ Paramount Plus：https://raw.githubusercontent.com/SYF001/Surge/main/Paramount_R
 
 Prime Video：https://raw.githubusercontent.com/SYF001/Surge/main/PrimeVideo_Rule.list
 
-国内媒体：https://raw.githubusercontent.com/SYF001/Surge/main/CN_Rule.list
+国内媒体：https://raw.githubusercontent.com/SYF001/Surge/main/Microsoft_Rule.list
 
 国外媒体：https://raw.githubusercontent.com/SYF001/Surge/main/Abroad_Rule.list
 
