@@ -25,3 +25,4 @@ DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 USER-AGENT,Argo*
+GEOIP,NETFLIX
