@@ -11,6 +11,39 @@ DOMAIN-KEYWORD,.tmall.
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+
+# bilibii
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.com
+DOMAIN-SUFFIX,acfun.tv
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,aixifan.com
+IP-CIDR,106.75.74.76/32,no-resolve
+IP-CIDR,111.206.25.147/32,no-resolve
+IP-CIDR,119.3.238.64/32,no-resolve
+IP-CIDR,120.92.108.182/32,no-resolve
+IP-CIDR,120.92.113.99/32,no-resolve
+IP-CIDR,120.92.153.217/32,no-resolve
+IP-CIDR,134.175.207.130/32,no-resolve
+IP-CIDR,203.107.1.0/24,no-resolve
+USER-AGENT,AcFun*
+USER-AGENT,*bili*
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
+USER-AGENT,bili-inter*
+#PROCESS-NAME,com.bilibili.app.blue
+#PROCESS-NAME,com.bilibili.app.in
+#PROCESS-NAME,com.bilibili.comic
+#PROCESS-NAME,com.bilibili.comic.intl
+#PROCESS-NAME,tv.danmaku.bili
+#PROCESS-NAME,tv.danmaku.bilibilihd
 # China
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
@@ -25,6 +58,47 @@ DOMAIN,origin-a.akamaihd.net // Origin Download
 DOMAIN,outlook.office365.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
+# > IP Query
+DOMAIN,ip.istatmenus.app
+DOMAIN,sms.imagetasks.com
+# > PayPal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalobjects.com
+# > Private Tracker
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,totheglory.im
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -34,14 +108,16 @@ DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
 # ------
-# > PayPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
+
 # > Steam
 DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
 DOMAIN-SUFFIX,steamserver.net
+
+
+# > Speed Test
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
+
 # > Tencent
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,qq.com
@@ -134,48 +210,3 @@ IP-CIDR6,240E:F7:A070:100::/60,no-resolve
 IP-CIDR6,240E:F7:A070:403::/60,no-resolve
 IP-CIDR6,240E:FF:9018:100::/60,no-resolve
 IP-CIDR6,240E:FF:F100::/44,no-resolve
-# > IP Query
-DOMAIN,ip.istatmenus.app
-DOMAIN,sms.imagetasks.com
-# > Speed Test
-DOMAIN-SUFFIX,netspeedtestmaster.com
-DOMAIN,speedtest.macpaw.com
-# > Private Tracker
-DOMAIN-SUFFIX,acg.rip
-DOMAIN-SUFFIX,animebytes.tv
-DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,comicat.org
-DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,hdbits.org
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hddolby.com
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,icetorrent.org
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,morethan.tv
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,myanonamouse.net
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,redacted.ch
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,totheglory.im
-#Acfun
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,acfun.com
-DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,aixifan.com
-USER-AGENT,AcFun*
