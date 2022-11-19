@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
 DOMAIN-SUFFIX,steamserver.net
 # > Tencent
+DOMAIN-SUFFIX,qq.com
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
