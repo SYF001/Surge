@@ -5,6 +5,7 @@ DOMAIN,sgshort.wechat.com
 DOMAIN,tencentmap.wechat.com
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
+IP-ASN,132203,no-resolve
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
