@@ -92,3 +92,5 @@ DOMAIN,safebrowsing.urlsec.qq.com
 # > Tenjin
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
+#
+0.0.0.0/32,no-resolve
