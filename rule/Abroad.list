@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
+MOMAIN-KEYWORD,gitlab
 
 # > bilibili Intl
 DOMAIN-SUFFIX,biliintl.com
@@ -171,3 +172,11 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-KEYWORD,instagram
+
+#Gitlab
+DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitter-static.net
+DOMAIN-SUFFIX,gitter.im
