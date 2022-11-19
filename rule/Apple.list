@@ -30,6 +30,7 @@ USER-AGENT,MacAppStore*
 USER-AGENT,Maps*
 USER-AGENT,TestFlight*
 USER-AGENT,com.apple.appstored* 
+#PROCESS-NAME,storedownloadd // Mac App Store
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
