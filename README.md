@@ -1,6 +1,6 @@
 配置文件
 
-佩奇：https://raw.githubusercontent.com/SYF001/Surge/main/佩奇.conf
+佩奇：https://raw.githubusercontent.com/SYF001/Surge/main/conf/佩奇.conf
 
 神机规则：https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf
 
