@@ -22,6 +22,10 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/Proxy.list
 
+>IP-ASN
+    
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/IP-ASN.list
+
 >Apple
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/Apple.list
