@@ -47,6 +47,14 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/Prime%20Video.list
 
+>Telegram
+
+    https://github.com/SYF001/Surge/blob/main/rule/Telegram.list
+
+>YouTube
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/YouTube.list
+
 
 
 
