@@ -1,4 +1,4 @@
-# Surge
+> Surge
 ## 配置
 
 佩奇：https://raw.githubusercontent.com/SYF001/Surge/main/conf/佩奇.conf
