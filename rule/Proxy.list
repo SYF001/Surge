@@ -175,16 +175,6 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
 
-# (Region-Restricted Access Denied)
-DOMAIN-SUFFIX,aicoin.com
-DOMAIN-SUFFIX,aimoon.com
-DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,ifixit.com
-DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
-DOMAIN,wego.here.com
-
 # keyword
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
