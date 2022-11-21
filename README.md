@@ -85,5 +85,11 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/module/Netflix.sgmoudle
 
+>安全重定向
 
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/SafeRedirect.sgmoudle
+
+>自用配置
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/模块.sgmodule
 
