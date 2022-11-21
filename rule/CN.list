@@ -82,12 +82,7 @@ USER-AGENT,bili-inter*
 # China
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
-# China Area Network
-DOMAIN-SUFFIX,flyert.com
-DOMAIN-SUFFIX,gandi.net
-DOMAIN-SUFFIX,snapdrop.net
-DOMAIN,download.jetbrains.com
-DOMAIN,origin-a.akamaihd.net // Origin Download
+
 # ---(Microsoft)---
 # > Outlook
 DOMAIN,outlook.office365.com
@@ -101,39 +96,7 @@ DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,paypalobjects.com
-# > Private Tracker
-DOMAIN-SUFFIX,acg.rip
-DOMAIN-SUFFIX,animebytes.tv
-DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,comicat.org
-DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,hdbits.org
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hddolby.com
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,icetorrent.org
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,morethan.tv
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,myanonamouse.net
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,redacted.ch
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,totheglory.im
+
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -143,15 +106,6 @@ DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
 # ------
-
-# > Steam
-DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
-DOMAIN-SUFFIX,steamserver.net
-
-
-# > Speed Test
-DOMAIN-SUFFIX,netspeedtestmaster.com
-DOMAIN,speedtest.macpaw.com
 
 # > Tencent
 DOMAIN-SUFFIX,wechat.com
