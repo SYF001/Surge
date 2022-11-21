@@ -81,7 +81,9 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/module/Host.sgmoudle
 
+>NETFLIX
 
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/Netflix.sgmoudle
 
 
 
