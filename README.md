@@ -14,13 +14,18 @@
 
 ## 分流规则
 
+>国内直连
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/CN.list
+
+>国外媒体
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/Proxy.list
+
 >Apple
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/Apple.list
 
->国内直连
-
-    https://raw.githubusercontent.com/SYF001/Surge/main/rule/CN.list
 
 >Dowload(for macos)
 
