@@ -63,6 +63,25 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/YouTube.list
 
+#模块
+
+>AdvertisingScript
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/AdvertisingScript.sgmodule
+
+>DNS
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/DNS.sgmoudle
+
+>Disney+
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/Disney%2B.sgmoudle
+
+>Host
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/module/Host.sgmoudle
+
+
 
 
 
