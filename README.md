@@ -35,6 +35,18 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/Microsoft.list
 
+>Netflix
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/Netflix.list
+
+>派拉蒙
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/Paramount%2B.list
+
+>Prime Video
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/Prime%20Video.list
+
 
 
 
