@@ -23,6 +23,18 @@
 
     https://raw.githubusercontent.com/SYF001/Surge/main/rule/CN.list
 
+>Dowload(for macos)
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/Download%20(For%20MacOS).list
+
+>HBO
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/HBO%20.list
+
+>Microsoft 
+
+    https://raw.githubusercontent.com/SYF001/Surge/main/rule/Microsoft.list
+
 
 
 
