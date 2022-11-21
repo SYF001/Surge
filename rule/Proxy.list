@@ -185,9 +185,7 @@ DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
-# > Akamai
-DOMAIN,a248.e.akamai.net
-DOMAIN,a771.dscq.akamai.net
+
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
@@ -241,8 +239,7 @@ DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
-# > Apple
-DOMAIN,testflight.apple.com
+
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,tumblr.com
@@ -441,9 +438,6 @@ DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,wego.here.com
-# > Alphabet
-DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,golang.org
 
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
