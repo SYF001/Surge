@@ -1,6 +1,5 @@
-DOMAIN,apps.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,mzstatic.com 
+DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
@@ -8,35 +7,7 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,lookup-api.apple.com 
+DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
 DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,tv.apple.com
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,App%20Store*
-USER-AGENT,AppleNews*
-USER-AGENT,AppleTV*
-USER-AGENT,AppStore*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.news*
-USER-AGENT,FindMy*
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,MacAppStore*
-USER-AGENT,Maps*
-USER-AGENT,TestFlight*
-USER-AGENT,com.apple.appstored* 
-#PROCESS-NAME,storedownloadd // Mac App Store
-IP-CIDR,139.178.128.0/18,no-resolve
-IP-CIDR,144.178.0.0/19,no-resolve
-IP-CIDR,144.178.36.0/22,no-resolve
-IP-CIDR,144.178.48.0/20,no-resolve
-IP-CIDR,192.35.50.0/24,no-resolve
-IP-CIDR,198.183.17.0/24,no-resolve
-IP-CIDR,205.180.175.0/24,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
+PROCESS-NAME,storedownloadd // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
