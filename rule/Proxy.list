@@ -145,6 +145,9 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
+USER-AGENT,Spotify*
+IP-CIDR,35.186.224.47/32,no-resolve
+PROCESS-NAME,com.spotify.music
 
 # > Telegram
 DOMAIN-SUFFIX,t.me
