@@ -52,6 +52,7 @@ DOMAIN,app.bilibili.com
 DOMAIN,grpc.biliapi.net
 DOMAIN,m.bilibili.com
 DOMAIN,p.bstarstatic.com
+DOMAIN,apiintl.biliapi.net
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
@@ -59,6 +60,7 @@ DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
+USER-AGENT,bili-inter*
 IP-CIDR,45.43.32.234/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,128.1.62.200/32,no-resolve
