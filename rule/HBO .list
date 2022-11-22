@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,forthethrone.com
 DOMAIN-SUFFIX,hbolb.onwardsmg.com
 DOMAIN,players.brightcove.net
+DOMAIN,wmff.warnermediacdn.com
 DOMAIN,hboasia1-i.akamaihd.net
 DOMAIN,hboasia2-i.akamaihd.net
 DOMAIN,hboasia3-i.akamaihd.net
@@ -22,8 +23,9 @@ DOMAIN,hbounify-prod.evergent.com
 DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN,dai3fd1oh325y.cloudfront.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 USER-AGENT,HBOMAX*
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBO%20GO%20PROD*
