@@ -6,10 +6,20 @@ DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.id
+DOMAIN-SUFFIX,hbogoasia.ph
+DOMAIN-SUFFIX,hbogoasia.sg
+DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,hbo.map.fastly.net
 DOMAIN-SUFFIX,hbolb.onwardsmg.com
+DOMAIN-SUFFIX,hbogeo.cust.footprint.net
+DOMAIN-SUFFIX,hbo.com.edgesuite.net
+DOMAIN-SUFFIX,hbo.com.c.footprint.net
 DOMAIN,players.brightcove.net
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN,hboasia1-i.akamaihd.net
@@ -30,3 +40,4 @@ USER-AGENT,HBOMAX*
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBO%20GO%20PROD*
 DOMAIN-KEYWORD,.hbogoasia.
+PROCESS-NAME,com.hbo.hbonow
