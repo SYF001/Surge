@@ -60,6 +60,7 @@ DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
+USER-AGENT,bilibili
 USER-AGENT,bili-inter*
 IP-CIDR,45.43.32.234/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
